@@ -4,7 +4,6 @@ import os
 from prettytable import PrettyTable 
 os.system("cls")
 
-
 # dictionary
 akun_admin = {"Username" : ["admin1"],
             "Password" : ["123"]} #aku admin supermarket AHA
